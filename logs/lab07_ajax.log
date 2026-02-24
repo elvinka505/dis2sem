@@ -1,6 +1,0 @@
-2025-11-08 15:52:14,865 [Catalina-utility-2] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextInitialized
-2025-11-08 15:52:15,901 [Catalina-utility-2] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextDestroyed
-2025-11-08 15:52:26,714 [main] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextInitialized
-2025-11-08 15:52:27,762 [main] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextDestroyed
-2025-11-08 15:55:32,667 [main] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextInitialized
-2025-11-08 15:55:33,710 [main] DEBUG ru.itis.dis403.lab1_07.listeners.DBContextListener- contextDestroyed
