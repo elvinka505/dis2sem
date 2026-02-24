@@ -14,8 +14,8 @@ public class Main {
 
         // Сохраняем страну
         Country country = new Country();
-        country.setName("Россия");
-        em.save(country);  // INSERT → id присвоится автоматически
+        country.setName("Росси");
+        em.save(country);  // INSERT => id присвоится автоматически
 
         // Сохраняем город
         City city = new City();
